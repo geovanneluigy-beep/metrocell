@@ -1,0 +1,8 @@
+{
+  "name": "Remix SmartFix Celulares \u0026 Assistência Técnica",
+  "description": "Loja interativa de celulares seminovos e novos com controle de estoque automático, orçamentos rápidos de conserto e atendimento direto via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
